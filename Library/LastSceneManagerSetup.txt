@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BITalino/Scenes/Graphs/Graphes.unity
+  isLoaded: 1
+  isActive: 1

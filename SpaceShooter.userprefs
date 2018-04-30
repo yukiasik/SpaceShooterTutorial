@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mover.cs">
+    <Files>
+      <File FileName="C:\Users\Radeo\Desktop\ConnectionState.cs" Line="1" Column="1" />
+      <File FileName="C:\Users\Radeo\Desktop\Line.cs" Line="1" Column="1" />
+      <File FileName="C:\Users\Radeo\Desktop\Helicopter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="69" Column="2" />
+      <File FileName="Assets\Scripts\Mover.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

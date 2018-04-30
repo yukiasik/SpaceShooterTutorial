@@ -1,0 +1,35 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+    Driver:   10.18.13.5946
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+Platform assembly: D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\SpaceShooter\Build\SpaceShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 4.586944 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: aec -> priority: 1 
+  Thread -> id: 1abc -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.229391 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 1.193470 ms (FindLiveObjects: 0.086504 ms CreateObjectMapping: 0.107764 ms MarkObjects: 0.980874 ms  DeleteObjects: 0.016861 ms)
+
