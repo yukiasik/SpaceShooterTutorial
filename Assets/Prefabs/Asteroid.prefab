@@ -140,7 +140,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03ce8231739e16c4e8368045bee0b0de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: -5
+  edaMultiplier: 1
+  ChannelType: 1
+  UseBITalion: 1
+  BasicSpeed: -5
 --- !u!114 &114916110659932648
 MonoBehaviour:
   m_ObjectHideFlags: 1
