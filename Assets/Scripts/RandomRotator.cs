@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomRotator : MonoBehaviour {
-
-	private Rigidbody rb;
-
+public class RandomRotator : MonoBehaviour
+{
 	public float tumble;
 
 	void Start ()
 	{
-		rb = GetComponent<Rigidbody>();
-		rb.angularVelocity = Random.insideUnitSphere * tumble;
+        transform.eulerAngles = new Vector3(Random.Range(0, 300), Random.Range(0, 300), Random.Range(0, 300));
 	}
+
+    private void Update()
+    {
+        transform.Rotate(Vector3.right * Time.deltaTime * tumble);
+    }
 }
